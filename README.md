@@ -302,4 +302,4 @@ cd resultservice && ./mvnw spring-boot:run
 
 ## 👤 Author
 
-- **Raman Chourasiya** - [@Raman-1166](https://github.com/Raman-1166)
+- **Mahak Urjane** - [mahakurjane246](https://github.com/mahakurjane246)
